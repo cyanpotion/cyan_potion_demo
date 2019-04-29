@@ -1,7 +1,7 @@
 # cyan_potion_demo
 game demo for [cyan_potion](https://github.com/cyanpotion/cyan_potion) game engine 1.9.0 (rpg_module)
 
-![image](http://github.com/cyanpotion/cyan_potion_demo/raw/master/demo.gif)
+![image](demo.gif)
 
 I assume everyone who get here is familiar with java, and has ability to use maven.
 
