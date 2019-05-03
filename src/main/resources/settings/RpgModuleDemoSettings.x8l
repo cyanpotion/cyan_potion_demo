@@ -12,6 +12,11 @@
     fullScreen=0
 >>
 <specialSettings>>
+<codePlugins>
+    <rightAfterResourceManagerCreate>SimpleFunctionObject:com.xenoamess.cyan_potion.base.render.Texture:PUT_TEXTURE_LOADER_PICTURE>
+    <rightAfterResourceManagerCreate>SimpleFunctionObject:com.xenoamess.cyan_potion.rpg_module.plugins.CodePlugins:PLUGIN_RPG_MODULE_TEXTURE_LOADERS>
+>
+
 <keymap using>
     <GLFW_KEY_W>XENOAMESS_KEY_UP>
     <GLFW_KEY_A>XENOAMESS_KEY_LEFT>
