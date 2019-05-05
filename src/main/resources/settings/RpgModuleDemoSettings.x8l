@@ -6,10 +6,13 @@
     titleClassName=com.xenoamess.cyan_potion.rpg_module.world.World
 >>
 <views
-    windowWidth=1280
-    windowHeight=1024
+    logicWindowWidth=1280
+    logicWindowHeight=1024
+    realWindowWidth=1280
+    realWindowHeight=1024
     scale=2.0
     fullScreen=0
+    gameWindowResizable=1
 >>
 <specialSettings>>
 <codePlugins>
