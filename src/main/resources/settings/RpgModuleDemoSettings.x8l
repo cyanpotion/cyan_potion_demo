@@ -5,6 +5,7 @@
     gameWindowClassName=com.xenoamess.cyan_potion.base.GameWindow
     titleClassName=com.xenoamess.cyan_potion.rpg_module.world.World
     runWithSteam=0
+    defaultFontResourceURI=/www/fonts/SourceHanSans-Normal.ttc:ttfFile
 >>
 <views
     logicWindowWidth=1280
@@ -18,6 +19,8 @@
 <specialSettings>>
 <codePlugins>
     <rightAfterResourceManagerCreate>SimpleFunctionObject:com.xenoamess.cyan_potion.base.render.Texture:PUT_TEXTURE_LOADER_PICTURE>
+    <rightAfterResourceManagerCreate>SimpleFunctionObject:com.xenoamess.cyan_potion.base.audio.WaveData:PUT_WAVEDATA_LOADER_MUSIC>
+    <rightAfterResourceManagerCreate>SimpleFunctionObject:com.xenoamess.cyan_potion.base.visual.Font:PUT_FONT_LOADER_TTFFILE>
     <rightAfterResourceManagerCreate>SimpleFunctionObject:com.xenoamess.cyan_potion.rpg_module.plugins.CodePlugins:PLUGIN_RPG_MODULE_TEXTURE_LOADERS>
 >
 
