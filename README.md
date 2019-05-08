@@ -3,6 +3,9 @@ game demo for [cyan_potion](https://github.com/cyanpotion/cyan_potion) game engi
 
 ![image](demo.gif)
 
+| WARNING:<br/> the picture sized 56.7MB |
+| --- |
+
 I assume everyone who get here is familiar with java, and has ability to use maven.
 
 So simply build it and run com.xenoamess.cyan_potion.cyan_potion_demo.ForceEntrance.main, to start the demo.
