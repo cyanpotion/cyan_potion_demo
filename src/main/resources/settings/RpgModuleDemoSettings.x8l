@@ -23,7 +23,7 @@
     <rightAfterResourceManagerCreate>SimpleFunctionObject:com.xenoamess.cyan_potion.base.visual.Font:PUT_FONT_LOADER_TTFFILE>
     <rightAfterResourceManagerCreate>SimpleFunctionObject:com.xenoamess.cyan_potion.rpg_module.plugins.CodePlugins:PLUGIN_RPG_MODULE_TEXTURE_LOADERS>
 >
-
+<debug=1>
 <keymap using>
     <GLFW_KEY_W>XENOAMESS_KEY_UP>
     <GLFW_KEY_A>XENOAMESS_KEY_LEFT>
