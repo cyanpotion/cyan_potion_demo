@@ -1,6 +1,15 @@
 # cyan_potion_demo
 game demo for [cyan_potion](https://github.com/cyanpotion/cyan_potion) game engine 1.9.0 (rpg_module)
 
+# DEPRECATED!
+<b>
+This project is moved to https://github.com/cyanpotion/cyan_potion/tree/master/src/demo
+
+Contents here will not be deleted soon, but will not either receive any updates.
+
+Contents here shall be deleted finally.
+</b>
+
 ![image](demo.gif)
 
 | WARNING:<br/> the picture sized 56.7MB |
